@@ -1,4 +1,7 @@
 .main-text {
+    font-size: 50px;
+    color: red;
     max-width: 100vw;
+    max-height: 100vh;
     background-color: aquamarine;
 }
